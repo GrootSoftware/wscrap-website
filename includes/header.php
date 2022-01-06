@@ -67,7 +67,7 @@
                                 </div>
                                 <div class="collapse navbar-collapse" id="navbar-collapse-1">
                                     <ul class="nav navbar-nav">
-                                        <li class="active"><a href="index.php">Home</a></li>
+                                        <li class="active"><a href="index.php">My Home</a></li>
                                         <li><a href="about-us.php">About Us</a></li>
                                         <li><a href="#">EVENTS</a>
                                             <ul class="environment-dropdown-menu">
